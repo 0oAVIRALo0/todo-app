@@ -47,5 +47,3 @@ A simple to-do app built with **Next.js** and **Zustand** for state management, 
    ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-# todo-app
