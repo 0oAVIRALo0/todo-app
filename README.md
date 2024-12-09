@@ -32,18 +32,18 @@ A simple to-do app built with **Next.js** and **Zustand** for state management, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rishabh3562/ToDo.git
+   git clone https://github.com/rishabh3562/todo-app.git
    ```
 
 2. Install dependencies:
    ```bash
    cd ToDo
-   npm install
+   pnpm install
    ```
 
 3. Run the development server:
    ```bash
-   npm run dev
+   pnpm run dev
    ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
